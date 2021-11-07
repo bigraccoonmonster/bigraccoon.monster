@@ -1,1 +1,1 @@
-### huge thanks to @bigratmonster
+huge thanks to [@bigratmonster](https://github.com/bigratmonster)
