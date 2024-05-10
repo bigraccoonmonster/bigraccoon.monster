@@ -86,8 +86,8 @@
     nekoEl.style.width = "32px";
     nekoEl.style.height = "32px";
     nekoEl.style.position = "fixed";
-    nekoEl.style.pointerEvents = "none";
-    nekoEl.style.backgroundImage = "url('./oneko/oneko.gif')";
+    nekoEl.style.pointerEvents = "auto";
+    nekoEl.style.backgroundImage = "url('./assets/oneko/oneko.gif')";
     nekoEl.style.imageRendering = "pixelated";
     nekoEl.style.left = `${nekoPosX - 16}px`;
     nekoEl.style.top = `${nekoPosY - 16}px`;
